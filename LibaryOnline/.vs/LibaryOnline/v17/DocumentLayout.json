@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\c#\\LibaryOnline\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|D:\\IT\\c#\\LibaryOnline\\libaryonline\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|solutionrelative:libaryonline\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|D:\\IT\\c#\\LibaryOnline\\libaryonline\\queries\\authorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|solutionrelative:libaryonline\\queries\\authorquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|D:\\IT\\c#\\LibaryOnline\\libaryonline\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|solutionrelative:libaryonline\\formdashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|d:\\it\\c#\\libaryonline\\libaryonline\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21F27206-F925-4ABD-973E-E40159224A71}|LibaryOnline\\LibaryOnline.csproj|solutionrelative:libaryonline\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\Login.cs",
+              "RelativeDocumentMoniker": "LibaryOnline\\Login.cs",
+              "ToolTip": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\Login.cs [Design]",
+              "RelativeToolTip": "LibaryOnline\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-29T13:56:32.955Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Authorquery.cs",
+              "DocumentMoniker": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\queries\\Authorquery.cs",
+              "RelativeDocumentMoniker": "LibaryOnline\\queries\\Authorquery.cs",
+              "ToolTip": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\queries\\Authorquery.cs",
+              "RelativeToolTip": "LibaryOnline\\queries\\Authorquery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-28T09:27:35.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FormDashboard.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\FormDashboard.cs",
+              "RelativeDocumentMoniker": "LibaryOnline\\FormDashboard.cs",
+              "ToolTip": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\FormDashboard.cs [Design]",
+              "RelativeToolTip": "LibaryOnline\\FormDashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-09T05:25:51.995Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\Database.cs",
+              "RelativeDocumentMoniker": "LibaryOnline\\Database.cs",
+              "ToolTip": "D:\\IT\\c#\\LibaryOnline\\LibaryOnline\\Database.cs",
+              "RelativeToolTip": "LibaryOnline\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-11-26T08:08:03.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

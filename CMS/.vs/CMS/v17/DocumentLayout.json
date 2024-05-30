@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IT\\c#\\CMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|d:\\it\\c#\\cms\\cms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|solutionrelative:cms\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|d:\\it\\c#\\cms\\cms\\queries\\studentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|solutionrelative:cms\\queries\\studentquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|D:\\IT\\c#\\CMS\\cms\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|solutionrelative:cms\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|D:\\IT\\c#\\CMS\\cms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|solutionrelative:cms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|d:\\it\\c#\\cms\\cms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63D1831D-6584-425D-87AD-68219D7DFE41}|CMS\\CMS.csproj|solutionrelative:cms\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "D:\\IT\\c#\\CMS\\CMS\\Database.cs",
+              "RelativeDocumentMoniker": "CMS\\Database.cs",
+              "ToolTip": "D:\\IT\\c#\\CMS\\CMS\\Database.cs",
+              "RelativeToolTip": "CMS\\Database.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:01:03.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dashboard.cs",
+              "DocumentMoniker": "D:\\IT\\c#\\CMS\\CMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "CMS\\Dashboard.cs",
+              "ToolTip": "D:\\IT\\c#\\CMS\\CMS\\Dashboard.cs",
+              "RelativeToolTip": "CMS\\Dashboard.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAuwK8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T06:19:58.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dashboard.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\c#\\CMS\\CMS\\Dashboard.cs",
+              "RelativeDocumentMoniker": "CMS\\Dashboard.cs",
+              "ToolTip": "D:\\IT\\c#\\CMS\\CMS\\Dashboard.cs [Design]",
+              "RelativeToolTip": "CMS\\Dashboard.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T06:19:54.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs [Design]",
+              "DocumentMoniker": "D:\\IT\\c#\\CMS\\CMS\\Course.cs",
+              "RelativeDocumentMoniker": "CMS\\Course.cs",
+              "ToolTip": "D:\\IT\\c#\\CMS\\CMS\\Course.cs [Design]",
+              "RelativeToolTip": "CMS\\Course.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T06:14:14.986Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentQuery.cs",
+              "DocumentMoniker": "D:\\IT\\c#\\CMS\\CMS\\Queries\\StudentQuery.cs",
+              "RelativeDocumentMoniker": "CMS\\Queries\\StudentQuery.cs",
+              "ToolTip": "D:\\IT\\c#\\CMS\\CMS\\Queries\\StudentQuery.cs",
+              "RelativeToolTip": "CMS\\Queries\\StudentQuery.cs",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAuwGMAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-12-08T05:57:51.374Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
